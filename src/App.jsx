@@ -9,6 +9,7 @@ function App() {
       <Header></Header>
       <Button>Sort by date</Button>
       <Card></Card>
+      <Button>see more</Button>
     </>
   );
 }
